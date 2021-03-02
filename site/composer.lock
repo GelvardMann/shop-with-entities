@@ -92,7 +92,7 @@
             "version": "3.3.11",
             "source": {
                 "type": "git",
-                "url": "git@github.com:RobinHerbots/Inputmask.git",
+                "url": "https://github.com/RobinHerbots/Inputmask.git",
                 "reference": "5e670ad62f50c738388d4dcec78d2888505ad77b"
             },
             "dist": {
@@ -113,7 +113,7 @@
             "version": "3.5.1",
             "source": {
                 "type": "git",
-                "url": "git@github.com:jquery/jquery-dist.git",
+                "url": "https://github.com/jquery/jquery-dist.git",
                 "reference": "4c0e4becb8263bb5b3e6dadc448d8e7305ef8215"
             },
             "dist": {
@@ -224,16 +224,16 @@
         },
         {
             "name": "codeception/codeception",
-            "version": "4.1.17",
+            "version": "4.1.18",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Codeception/Codeception.git",
-                "reference": "c153b1ab289b3e3109e685379aa8847c54ac2b68"
+                "reference": "f47547bac347dfb5ea5351ff91148cbcc08e6818"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Codeception/Codeception/zipball/c153b1ab289b3e3109e685379aa8847c54ac2b68",
-                "reference": "c153b1ab289b3e3109e685379aa8847c54ac2b68",
+                "url": "https://api.github.com/repos/Codeception/Codeception/zipball/f47547bac347dfb5ea5351ff91148cbcc08e6818",
+                "reference": "f47547bac347dfb5ea5351ff91148cbcc08e6818",
                 "shasum": ""
             },
             "require": {
@@ -311,7 +311,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2021-02-01T07:30:47+00:00"
+            "time": "2021-02-23T17:11:42+00:00"
         },
         {
             "name": "codeception/lib-asserts",
